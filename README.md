@@ -1,8 +1,9 @@
-![image](https://user-images.githubusercontent.com/43418706/235454604-ce407b34-672a-40d2-9b6c-2a1866ae9ed2.png)
+![Orange Minimalist (LinkedIn Banner)](https://user-images.githubusercontent.com/43418706/235456391-091e9252-26b2-4eff-aa84-eb0fd5e6fbe6.png)
 
 
-### Hi, I'm Lakshmi Kant.
-A Data Scientist & Analyst. 👋
+
+### Hi, I'm Lakshmi Kant.👋
+A Data Scientist & Analyst. 
 
 Experienced Data Scientist with over 1+ years of working on real-world datasets; collecting, analyzing, and interpreting large and complex data sets to identify patterns, trends, and insights that inform business decisions. and using various data visualization techniques to communicate insights and findings effectively. also, designing and implementing models, ML algorithms, and statistical analyses to solve specific business problems and develop predictive models. 
 
