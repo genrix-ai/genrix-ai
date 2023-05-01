@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/43418706/235454604-ce407b34-672a-40d2-9b6c-2a1866ae9ed2.png)
+
+
 ### Hi, I'm Lakshmi Kant.
 A Data Scientist & Analyst. 👋
 
@@ -7,10 +10,10 @@ In the world of technology, I am passionate to work with the most transformative
 
 Top skillsTop skills
 * Statistics & Probability 
-• Machine Learning 
-• Python (Programming Language) 
-• SQL 
-• Microsoft Power BI
+* Machine Learning 
+* Python (Programming Language) 
+* SQL 
+* Microsoft Power BI
 * Tableau
 * R (Programming Language) 
 
