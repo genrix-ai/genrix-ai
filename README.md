@@ -1,8 +1,7 @@
 ![Orange Minimalist (LinkedIn Banner)](https://user-images.githubusercontent.com/43418706/235456391-091e9252-26b2-4eff-aa84-eb0fd5e6fbe6.png)
 
-                                               Data Science & Analytics | R&D | Digital📈Data📊AI🎯
-                      Talks about #datascience, #dataanalytics, #techinnovation, #machinelearning, and #artificialintelligence
-
+                                            Data Science & Analytics | R&D | Digital📈Data📊AI🎯
+                    Talks about #datascience, #dataanalytics, #techinnovation, #machinelearning, and #artificialintelligence
 ### Hi, I'm Lakshmi Kant.👋
 A Data Scientist & Analyst. 
 
