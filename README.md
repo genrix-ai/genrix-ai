@@ -1,5 +1,5 @@
 ![Orange Minimalist (LinkedIn Banner)](https://user-images.githubusercontent.com/43418706/235456391-091e9252-26b2-4eff-aa84-eb0fd5e6fbe6.png)
-<text align="center">
+<text-align="center">
 Data Science & Analytics | R&D | Digital📈Data📊AI🎯 
 <br>
 Talks about #datascience, #dataanalytics, #techinnovation, #machinelearning, and #artificialintelligence
