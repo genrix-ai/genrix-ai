@@ -19,4 +19,5 @@ Top skills:
 * Tableau
 * R (Programming Language) 
 
-
+-------
+For more info visit my website: [![Netlify Status](https://api.netlify.com/api/v1/badges/29724117-26a6-4e43-89ea-0021f32663d0/deploy-status)](https://app.netlify.com/sites/genrix/deploys)
